@@ -1,5 +1,6 @@
 # Colorful Workspaces
 
+[![MadeForGraviton](https://raw.githubusercontent.com/Graviton-Code-Editor/website/master/src/badges/made_for_graviton.svg?sanitize=true)](https://github.com/Graviton-Code-Editor/Graviton-App
 
 MIT License
 
