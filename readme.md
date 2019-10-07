@@ -1,6 +1,6 @@
 # Colorful Workspaces
 
-A colorful and easier way to differenciate your Graviton workspaces.
+A colorful and easier way to differentiate your Graviton workspaces.
 
 [![MadeForGraviton](https://raw.githubusercontent.com/Graviton-Code-Editor/website/master/src/badges/made_for_graviton.svg?sanitize=true)](https://github.com/Graviton-Code-Editor/Graviton-App)
 
