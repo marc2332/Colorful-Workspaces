@@ -46,7 +46,7 @@ plugin.getData((data)=>{
      content += `
      <div class="section-1">
          <p style=" margin:5px 0px;">${one.path.replace(/\\/g, "\\")}</p>
-         <div style="display:inline-block; background:rgb(${one.color.r},${one.color.g},${one.color.b}); width:15px; height:15px;border-radius:50px;"></div>
+         <div style="display:inline-block; background:rgb(${one.color.r},${one.color.g},${one.color.b}); width:15px; height:15px;border-radius:50px; margin-right:8px;"></div>
          <input style="margin:5px 0px;  display:inline-block;" class="input4" value="${one.color.r},${one.color.g},${one.color.b}"></input>
       </div>
       <span class="line_space_menus"></span>
@@ -58,7 +58,7 @@ plugin.getData((data)=>{
 	workspaces_dm.setList({
 		"button": "Workspaces",
 		"list":{
-			 "Click me!":{
+			 "Configuration":{
 					click:function(){
 						const ws_window = new Window({
 							content:`
